@@ -13,8 +13,8 @@ Live Long & Push Commits! 🖖
 
 ## 📫 How to reach me
 - Email: kalani.codes@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/hikalani)
-- Portfolio: [cyberkalani.com)
+- LinkedIn: https://linkedin.com/hikalani
+- Portfolio: http://www.cyberkalani.com
 
 Space, the final interface...
 
