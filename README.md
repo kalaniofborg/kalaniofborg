@@ -1,5 +1,6 @@
-#  🌌 Captain's Log: GitHub Stardate 2025. Hi, I'm Kalani 🖖 navigating the galaxy one line of code at a time.
+#  🌌 Captain's Log: GitHub Stardate 2025.
 
+Hi, I'm Kalani 🖖 navigating the galaxy one line of code at a time.
 I'm a cybersecurity student and freelance web designer/developer passionate about creating beautiful, secure websites and learning new tech every day.
 
 ## 🛠️ Skills & Technologies
