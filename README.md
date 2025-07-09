@@ -8,11 +8,6 @@ I'm a cybersecurity student and freelance web designer/developer passionate abou
 - **Tools:** Git, VS Code, Chrome DevTools, Linux
 - **Currently Learning:** Advanced Python for cybersecurity, C++ fundamentals, Network security concepts
 
-## 🚀 Featured Projects
-- [Portfolio Website](https://github.com/kalaniofborg/portfolio) — My personal portfolio showcasing web design skills
-- [Cybersecurity Scripts](https://github.com/kalaniofborg/cybersec-scripts) — Python scripts focused on network scanning and automation
-- [JavaScript Game](https://github.com/kalaniofborg/js-game) — A fun browser-based game built with JS
-- 
 Live Long & Push Commits! 🖖
 
 ## 📫 How to reach me
