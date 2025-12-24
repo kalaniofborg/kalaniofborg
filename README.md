@@ -12,7 +12,7 @@ I'm a cybersecurity student and freelance web designer/developer passionate abou
 Live Long & Push Commits! 🖖
 
 ## 📫 How to reach me
-- Email: kalani.codes@gmail.com
+- Email: kalaniofborg@protonmail.com
 - LinkedIn: https://linkedin.com/hikalani
 - Portfolio: http://www.cyberkalani.com
 
