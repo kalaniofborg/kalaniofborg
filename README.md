@@ -21,7 +21,6 @@ I'm a cybersecurity student and freelance web designer/developer passionate abou
 
 ## How to reach me
 - Email: kalaniofborg@protonmail.com
-- LinkedIn: https://linkedin.com/hikalani
 - Portfolio: http://www.cyberkalani.com
 
 Live Long & Push Commits! 🖖
